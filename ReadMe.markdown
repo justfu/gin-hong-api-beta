@@ -51,7 +51,7 @@ gin-hone-api 的成长离不开大家的支持，如果你愿意为 gin-hone-api
 
 ```bash
 # 克隆项目
-git clone https://github.com/flipped-aurora/gin-vue-admin.git
+git clone https://github.com/justfu/gin-hong-api-beta
 # 进入主文件夹
 cd gin-hong-api
 # 脚本编辑且运行项目 具体可以自己行在sh里面去加
